@@ -6,13 +6,6 @@
   box-sizing: inherit;
 }
 
-/*
-  Tip: rem are based on the default font-size of the html, which is 16px.
-  We used percent here in case of the user zoom in the page.
-  10/16 == 62.5
-  1rem == 10px
-  PS: rem works on IE 9+
-*/
 html {
   font-size: 62.5%;
 }
