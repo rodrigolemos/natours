@@ -10,6 +10,6 @@ https://github.com/rodrigolemos/natours.git
 ```
 and open the file index.html.
 
-## Autor
+## Author
 
 Rodrigo Lemos
